@@ -19,4 +19,4 @@ provides a reliable platform to enable accurate US 3D reconstruction of masses i
 RAPN procedures. The proposed system has also the potential to be employed in
 other surgical procedures such as hepatectomy or laparoscopic liver resection.
 
-Keywords 3D Ultrasound · Laparoscopy · Surgical Robotics · Soft Robotics
+Keywords: 3D Ultrasound · Laparoscopy · Surgical Robotics · Soft Robotics
