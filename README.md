@@ -1,7 +1,5 @@
-# 3D-US-Reconstruction-of-tumor-masses
-## Ultrasound 3D Reconstruction of Malignant Masses in Robotic-Assisted Partial Nephrectomy Usingthe PAF Rail System: a Comparison Study
-
-### Abstract Purpose: 
+# Ultrasound 3D Reconstruction of Malignant Masses in Robotic-Assisted Partial Nephrectomy Usingthe PAF Rail System: a Comparison Study
+## Abstract Purpose: 
 In Robotic-Assisted Partial Nephrectomy (RAPN) the use
 of intraoperative ultrasound (IOUS) helps to localise and outline the tumours as
 well as the blood vessels within the kidney. The aim of this work is to evaluate
