@@ -21,3 +21,6 @@ Keywords: 3D Ultrasound · Laparoscopy · Surgical Robotics · Soft Robotics
 
 ## Data - Results:
 https://www.dropbox.com/sh/56216r3lpz1xqng/AABVkUpLBPB6mJ6YOTE1x03da?dl=0
+
+## Publication:
+https://link.springer.com/article/10.1007/s11548-020-02149-4
