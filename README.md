@@ -94,6 +94,9 @@ Slicer = 4.10.1
 * Define the method for tracking the probe in 'visual' (true = aruco markers detection and pose estimation , false = kinematics)
 * Define the how many frames/images will be used in 'used_frames'
 
+## Support
+If you encounter any issues or have any questions, feel free to contact me to harris.komninos@gmail.com .
+
 ## References 
 1) IGSIO: A collection of tools and algorithms for image guided systems (https://github.com/IGSIO/IGSIO)
 2) Plus: Free, open-source library and applications for data acquisition, pre-processing, calibration, and real-time streaming of imaging, position tracking, and other sensor data (https://plustoolkit.github.io/)
