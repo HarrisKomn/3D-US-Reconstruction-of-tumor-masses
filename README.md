@@ -62,6 +62,8 @@ A feature extraction algorithm implemented to detect the region of the mass and 
 
 * A swipe sequence is considered successfully completed when the probe moves from one side of the kidney to the other without losing contact with the kidney surface and the embedded mass is correctly displayed in the ultrasound images collected
 
+![image](https://user-images.githubusercontent.com/43147324/86971003-15d97d80-c179-11ea-99bd-d56ef05060a0.png)
+
 
 # Software Application
 
