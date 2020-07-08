@@ -36,9 +36,9 @@ https://link.springer.com/article/10.1007/s11548-020-02149-4
 * Optical Tracking:
   * Three square marker slots on each side of  the transducer, where visual ARUCO markers are affixed
     ARUCO markeres are composed by a wide black  border and an inner binary matrix
-  * ARUCO Markers Detection: ![image](https://user-images.githubusercontent.com/43147324/86968275-98137300-c174-11ea-99d7-53d2193a968d.png)
+  * ARUCO Markers Detection: <img align="right" width="100" src="https://user-images.githubusercontent.com/43147324/86968275-98137300-c174-11ea-99d7-53d2193a968d.png">
+  * Pose estimation with respect to camera coordinate system:  <img align="right" width="100" src="https://user-images.githubusercontent.com/43147324/86968424-d6a92d80-c174-11ea-8f91-ee04a5f4a432.png">
 
-  * Pose estimation with respect to camera coordinate system: 
 
 
 
