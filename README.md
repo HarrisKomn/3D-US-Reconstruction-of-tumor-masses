@@ -51,6 +51,18 @@ A feature extraction algorithm implemented to detect the region of the mass and 
 4. Apply edge detector to targeted components and find their contours
 5. Fit an ellipse to each contour in the original image
 <br/><br/><br/>
+
+## 3D US Reconstruction
+* US volume reconstruction methods construct a 3D Cartesian volume from a set of 2D US frames that are sweeping across a region
+* This is implemented by iterating through each pixel of the rectangular region of the slice and inserting the pixel value into the corresponding volume voxel (“nearest-neighbor interpolation” option) or distributing it in the closest 8 volume voxels (“linear interpolation” option).
+* The voxel value can be determined by simply using the latest coinciding pixel value or as a weighted average of all coinciding pixels (“compounding” option)
+
+## Results 
+* Kinematics data, endoscopic and ultrasound images were collected from multiple swipe sequences in this experiment 
+
+* A swipe sequence is considered successfully completed when the probe moves from one side of the kidney to the other without losing contact with the kidney surface and the embedded mass is correctly displayed in the ultrasound images collected
+
+
 # Software Application
 
 ## Prerequisites
