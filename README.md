@@ -41,12 +41,13 @@ https://link.springer.com/article/10.1007/s11548-020-02149-4
 ## Tumor Segmentation 
 Suffering from the speckle noise, it is difficult to segment the mass from the phantom in ultrasound images. A feature extraction algorithm implemented to detect the region of the mass and outline its boundary:
 1. Apply a high-pass filter to the image to sharpen it
+<img align="right" width="100" src="https://user-images.githubusercontent.com/43147324/86969793-048f7180-c177-11ea-8fef-7d04aa7d209b.png">
 2. Apply image thresholding to the sharpened image
 3. Find the connected components using blob analysis
 4. Apply edge detector to targeted components and find their contours
 5. Fit an ellipse to each contour in the original image
 
-
+<br/><br/><br/><br/><br/>
 # Software Application
 
 ## Prerequisites
