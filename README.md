@@ -30,16 +30,14 @@ https://link.springer.com/article/10.1007/s11548-020-02149-4
 ![image](https://user-images.githubusercontent.com/43147324/86966915-8c26b180-c172-11ea-88cb-542fc5696def.png)
 
 ## Probe Tracking
-* Kinematics: Data of the PSM recorded via the dVRK, the pose between the camera coordinate system and the current 
-  end-effector in the Cartesian space
-
-* Optical Tracking: Three square marker slots on each side of  the transducer, where visual ARUCO markers are affixedARUCO markeres are composed by a wide black  border and an inner binary matrix
-
-
-     ARUCO Markers Detection:
-
-
-     Pose estimation with respect to camera coordinate system: 
+* Kinematics: Data of the PSM recorded via the dVRK, the pose between the camera coordinate 
+  system and the current end-effector in the Cartesian space      
+  <img align="right" width="200" src="https://user-images.githubusercontent.com/43147324/86967256-1242f800-c173-11ea-9db6-70d94109540b.png">
+* Optical Tracking:
+  * Three square marker slots on each side of  the transducer, where visual ARUCO markers are affixed
+    ARUCO markeres are composed by a wide black  border and an inner binary matrix
+  * ARUCO Markers Detection:
+  * Pose estimation with respect to camera coordinate system: 
 
 
 
