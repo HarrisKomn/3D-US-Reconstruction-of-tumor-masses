@@ -28,20 +28,20 @@ https://link.springer.com/article/10.1007/s11548-020-02149-4
 # Software Application
 
 ## Prerequisites
-C++ compiler
-Visual Studio >= 2015
-VTK = 8.2
-CMake = 3.14
-Slicer = 4.10.1
+C++ compiler \
+Visual Studio >= 2015 \
+VTK = 8.2 \
+CMake = 3.14 \
+Slicer = 4.10.1 
 
 ## Build instructions
-Markup : * Clone IGSIO into a directory of your choice
-Markup : * Configure the project with CMake
-              * Enter VTK directory (VTK_DIR) pointing to the location of VTKConfig.cmake
-              * Enable desired components:
-                * IGSIO_BUILD_SEQUENCEIO: Read/write sequence files to vtkIGSIOTrackedFrameList
-                * IGSIO_BUILD_SEQUENCEIO: Read/write sequence files to vtkIGSIOTrackedFrameList
-                * IGSIO_BUILD_VOLUMERECONSTRUCTION: Reconstruct volumes using images and transforms in vtkIGSIOTrackedFrameList
-              * Open IGSIO.sln file and build the solution
+Markup : * Clone IGSIO into a directory of your choice\
+Markup : * Configure the project with CMake\
+              * Enter VTK directory (VTK_DIR) pointing to the location of VTKConfig.cmake\
+              * Enable desired components:\
+                * IGSIO_BUILD_SEQUENCEIO: Read/write sequence files to vtkIGSIOTrackedFrameList\
+                * IGSIO_BUILD_SEQUENCEIO: Read/write sequence files to vtkIGSIOTrackedFrameList\
+                * IGSIO_BUILD_VOLUMERECONSTRUCTION: Reconstruct volumes using images and transforms in vtkIGSIOTrackedFrameList\
+              * Open IGSIO.sln file and build the solution\
               * Ready to work on VolumeReconstructorTest project
 
