@@ -35,13 +35,13 @@ CMake = 3.14 \
 Slicer = 4.10.1 
 
 ## Build instructions
-* Clone IGSIO into a directory of your choice\
-* Configure the project with CMake\
-  * Enter VTK directory (VTK_DIR) pointing to the location of VTKConfig.cmake\
-  * Enable desired components:\
-    * IGSIO_BUILD_SEQUENCEIO: Read/write sequence files to vtkIGSIOTrackedFrameList\
-    * IGSIO_BUILD_SEQUENCEIO: Read/write sequence files to vtkIGSIOTrackedFrameList\
-    * IGSIO_BUILD_VOLUMERECONSTRUCTION: Reconstruct volumes using images and transforms in vtkIGSIOTrackedFrameList\
-  * Open IGSIO.sln file and build the solution\
+* Clone IGSIO into a directory of your choice
+* Configure the project with CMake
+  * Enter VTK directory (VTK_DIR) pointing to the location of VTKConfig.cmake
+  * Enable desired components:
+    * IGSIO_BUILD_SEQUENCEIO: Read/write sequence files to vtkIGSIOTrackedFrameList
+    * IGSIO_BUILD_SEQUENCEIO: Read/write sequence files to vtkIGSIOTrackedFrameList
+    * IGSIO_BUILD_VOLUMERECONSTRUCTION: Reconstruct volumes using images and transforms in vtkIGSIOTrackedFrameList
+  * Open IGSIO.sln file and build the solution
   * Ready to work on VolumeReconstructorTest project
 
