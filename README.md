@@ -38,7 +38,13 @@ https://link.springer.com/article/10.1007/s11548-020-02149-4
   * Pose estimation with respect to camera coordinate system:  
 <img align="right" width="100" src="https://user-images.githubusercontent.com/43147324/86968424-d6a92d80-c174-11ea-8f91-ee04a5f4a432.png">
 
-
+## Tumor Segmentation 
+Suffering from the speckle noise, it is difficult to segment the mass from the phantom in ultrasound images. A feature extraction algorithm implemented to detect the region of the mass and outline its boundary:
+1. Apply a high-pass filter to the image to sharpen it
+2. Apply image thresholding to the sharpened image
+3. Find the connected components using blob analysis
+4. Apply edge detector to targeted components and find their contours
+5. Fit an ellipse to each contour in the original image
 
 
 # Software Application
