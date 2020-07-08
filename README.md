@@ -45,3 +45,7 @@ Slicer = 4.10.1
   * Open IGSIO.sln file and build the solution
   * Ready to work on VolumeReconstructorTest project
 
+
+## References 
+1) IGSIO: A collection of tools and algorithms for image guided systems (https://github.com/IGSIO/IGSIO)
+2) Plus: Free, open-source library and applications for data acquisition, pre-processing, calibration, and real-time streaming of imaging, position tracking, and other sensor data (https://plustoolkit.github.io/)
