@@ -58,9 +58,9 @@ A feature extraction algorithm implemented to detect the region of the mass and 
 * The voxel value can be determined by simply using the latest coinciding pixel value or as a weighted average of all coinciding pixels (“compounding” option)
 
 ## Results 
-* Kinematics data, endoscopic and ultrasound images were collected from multiple swipe sequences in this experiment 
+* Kinematics data, endoscopic and ultrasound images were collected from multiple swipe sequences in this experiment. 
 
-* A swipe sequence is considered successfully completed when the probe moves from one side of the kidney to the other without losing contact with the kidney surface and the embedded mass is correctly displayed in the ultrasound images collected
+* A swipe sequence is considered successfully completed when the probe moves from one side of the kidney to the other without losing contact with the kidney surface and the embedded mass is correctly displayed in the ultrasound images collected. Please watch the video: https://github.com/HarrisKomn/3D-US-Reconstruction-of-tumor-masses/blob/master/Aruco_Tracking.mp4
 
 ![image](https://user-images.githubusercontent.com/43147324/86971003-15d97d80-c179-11ea-99bd-d56ef05060a0.png)
 
