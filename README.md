@@ -45,6 +45,13 @@ Slicer = 4.10.1
   * Open IGSIO.sln file and build the solution
   * Ready to work on VolumeReconstructorTest project
 
+## Project Instructions
+* Define Ultrasound Video file in 'vreader_Ultra'
+* Define Endoscopic Video file in 'videoR'
+* Define Output Volume Filename in 'outputVolumeFileName'
+* Define the method for tracking the probe in 'visual' (true = aruco markers detection and pose estimation , false = kinematics)
+* Define the how many frames/images will be used in 'used_frames'
+
 
 ## References 
 1) IGSIO: A collection of tools and algorithms for image guided systems (https://github.com/IGSIO/IGSIO)
